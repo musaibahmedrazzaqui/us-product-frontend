@@ -1,0 +1,21 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "Elphinstone US",
+  "short_name": "Elphinstone US",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "us.elphinstone.elphinstone"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=us.elphinstone.elphinstone",
+      "id": "us.elphinstone.elphinstone"
+    }
+  ],
+  "prefer_related_applications": true
+}

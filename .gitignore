@@ -1,0 +1,5 @@
+node_modules
+.plist
+.DS_STORE
+.expo
+expo

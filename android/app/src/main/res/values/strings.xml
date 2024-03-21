@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Elphinstone US</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">contain</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
+
+  
+  <string name="facebook_app_id">709362130953989</string>
+  <string name="fb_login_protocol_scheme">fb709362130953989</string>
+  <string name="facebook_client_token">5cb955c693737a2c4d672db36b4d0e8e</string>
+  <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+  <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+
+</resources>

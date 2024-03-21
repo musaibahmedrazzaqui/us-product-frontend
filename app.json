@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "Elphinstone US",
+    "slug": "ElphinstoneUS",
+    "version": "1.0.0",
+    "entryPoint": "./index.js",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "baseUrl":"/us-product-frontend",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "us.elphinstone.elphinstone"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "us.elphinstone.elphinstone"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "dc8c3afb-bcaf-4f4a-892c-5dc6d47267ed"
+      }
+    },
+    "plugins": [
+      "sentry-expo"
+    ]
+  }
+}
